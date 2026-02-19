@@ -1,0 +1,14 @@
+generator client {
+  provider     = "prisma-client"
+  output       = "../../src/modules-root/database/infrastructure/prisma-client"
+  moduleFormat = "cjs"
+}
+
+datasource postgres {
+  provider = "postgresql"
+}
+
+generator erd {
+  provider = "prisma-erd-generator"
+  output   = "../../README_DATABASE_GRAPH.md"
+}

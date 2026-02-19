@@ -1,0 +1,8 @@
+{
+	"version": 3,
+	"file": "database.token.js",
+	"sourceRoot": "",
+	"sources": ["../../../../../../src/modules-root/database/infrastructure/dependency-injection/database.token.ts"],
+	"names": [],
+	"mappings": ";;;AAAa,QAAA,oBAAoB,GAAkB,MAAM,CAAC,sBAAsB,CAAC,CAAC;AACrE,QAAA,yBAAyB,GAAkB,MAAM,CAAC,2BAA2B,CAAC,CAAC"
+}

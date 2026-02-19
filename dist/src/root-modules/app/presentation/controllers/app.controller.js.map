@@ -1,0 +1,8 @@
+{
+	"version": 3,
+	"file": "app.controller.js",
+	"sourceRoot": "",
+	"sources": ["../../../../../../src/modules-root/app/presentation/controllers/app.controller.ts"],
+	"names": [],
+	"mappings": ";;;;;;;;;;;;AAAA,2CAAiD;AACjD,6CAA8D;AAE9D,6FAA6F;AAC7F,wEAAgG;AAEhG,mFAA4D;AAGrD,IAAM,aAAa,GAAnB,MAAM,aAAa;IAWzB,MAAM;QACL,OAAO,EAAE,MAAM,EAAE,MAAM,EAAE,MAAM,EAAE,IAAI,EAAE,CAAC;IACzC,CAAC;CACD,CAAA;AAdY,sCAAa;AAWzB;IAVC,IAAA,YAAG,EAAC,GAAG,CAAC;IACR,IAAA,yBAAM,GAAE;IACR,IAAA,sBAAY,EAAC;QACb,OAAO,EAAE,cAAc;KACvB,CAAC;IACD,IAAA,uBAAa,EAAC;QACd,WAAW,EAAE,mCAAmC;QAChD,IAAI,EAAE,mCAAe;KACrB,CAAC;IACD,IAAA,+BAAS,EAAC,mCAAe,CAAC;;;oCACjB,mCAAe;2CAExB;wBAbW,aAAa;IADzB,IAAA,mBAAU,GAAE;GACA,aAAa,CAczB"
+}

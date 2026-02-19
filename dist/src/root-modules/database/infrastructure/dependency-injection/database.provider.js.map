@@ -1,0 +1,8 @@
+{
+	"version": 3,
+	"file": "database.provider.js",
+	"sourceRoot": "",
+	"sources": ["../../../../../../src/modules-root/database/infrastructure/dependency-injection/database.provider.ts"],
+	"names": [],
+	"mappings": ";;;AAAA,2CAA+C;AAG/C,+DAA+F;AAC/F,yFAAsH;AAEtH,qDAAmF;AAEtE,QAAA,uBAAuB,GAA4B;IAC/D,MAAM,EAAE,CAAC,sBAAa,CAAC;IACvB,OAAO,EAAE,qCAAoB;IAC7B,UAAU,EAAE,CAAC,aAA4B,EAAE,EAAE,CAAC,IAAI,8BAAa,CAAC,aAAa,CAAC;CAC9E,CAAC;AAEW,QAAA,4BAA4B,GAAsC;IAC9E,MAAM,EAAE,CAAC,qCAAoB,CAAC;IAC9B,OAAO,EAAE,0CAAyB;IAClC,UAAU,EAAE,CAAC,aAA4B,EAAE,EAAE,CAAC,IAAI,qDAAuB,CAAC,aAAa,CAAC;CACxF,CAAC"
+}

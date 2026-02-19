@@ -1,0 +1,15 @@
+model User {
+    // Business
+    id        String  @id @unique
+    auth0Id   String  @unique
+    email     String? @unique
+    firstName String?
+    lastName  String?
+
+    // Metadata
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt
+
+    // Indexes
+    @@index([auth0Id])
+}

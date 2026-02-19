@@ -1,0 +1,12 @@
+{
+	"[prisma]": {
+		"editor.defaultFormatter": "Prisma.prisma"
+	},
+	"editor.codeActionsOnSave": {
+		"source.action.useSortedInterfaceMembers.biome": "explicit",
+		"source.action.useSortedKeys.biome": "explicit",
+		"source.fixAll.biome": "explicit",
+		"source.organizeImports.biome": "explicit"
+	},
+	"editor.formatOnSave": true
+}
