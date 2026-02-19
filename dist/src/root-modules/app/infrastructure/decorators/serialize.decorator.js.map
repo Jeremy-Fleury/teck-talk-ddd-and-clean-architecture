@@ -1,8 +1,0 @@
-{
-	"version": 3,
-	"file": "serialize.decorator.js",
-	"sourceRoot": "",
-	"sources": ["../../../../../../src/modules-root/app/infrastructure/decorators/serialize.decorator.ts"],
-	"names": [],
-	"mappings": ";;;AAAA,2CAA8D;AAEjD,QAAA,iBAAiB,GAAG,eAAe,CAAC;AAQ1C,MAAM,SAAS,GAAG,CAAO,GAAoB,EAAE,EAAE;IACvD,OAAO,IAAA,wBAAe,EAAC,IAAA,oBAAW,EAAC,yBAAiB,EAAE,GAAG,CAAC,EAAE,IAAA,oBAAW,EAAC,mBAAmB,EAAE,GAAG,CAAC,IAAI,CAAC,CAAC,CAAC;AACzG,CAAC,CAAC;AAFW,QAAA,SAAS,aAEpB"
-}

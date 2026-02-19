@@ -1,8 +1,0 @@
-{
-	"version": 3,
-	"file": "health.output-dto.js",
-	"sourceRoot": "",
-	"sources": ["../../../../../../../src/modules-root/app/presentation/dto/outputs/health.output-dto.ts"],
-	"names": [],
-	"mappings": ";;;;;;;;;;;;AAAA,6CAA8C;AAC9C,yDAA2C;AAC3C,qDAA2C;AAE3C,MAAa,eAAe;IAS3B,MAAM,CAAQ;IAQd,MAAM,CAAU;CAChB;AAlBD,0CAkBC;AATA;IARC,IAAA,qBAAW,EAAC;QACZ,WAAW,EAAE,gCAAgC;QAC7C,OAAO,EAAE,IAAI;QACb,QAAQ,EAAE,IAAI;QACd,IAAI,EAAE,MAAM;KACZ,CAAC;IACD,IAAA,0BAAM,GAAE;IACR,IAAA,0BAAQ,EAAC,EAAE,OAAO,EAAE,yBAAyB,EAAE,CAAC;;+CACnC;AAQd;IANC,IAAA,qBAAW,EAAC;QACZ,WAAW,EAAE,gCAAgC;QAC7C,OAAO,EAAE,MAAM;QACf,QAAQ,EAAE,IAAI;QACd,IAAI,EAAE,MAAM;KACZ,CAAC;;+CACc"
-}

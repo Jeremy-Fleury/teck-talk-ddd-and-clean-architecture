@@ -1,8 +1,0 @@
-{
-	"version": 3,
-	"file": "prisma-unit-of-work.service.js",
-	"sourceRoot": "",
-	"sources": ["../../../../../../src/modules-root/database/infrastructure/services/prisma-unit-of-work.service.ts"],
-	"names": [],
-	"mappings": ";;;AAIA,iIAAkH;AAIlH,MAAa,uBAAuB;IACN;IAA7B,YAA6B,cAA6B;QAA7B,mBAAc,GAAd,cAAc,CAAe;IAAG,CAAC;IAE9D,OAAO,CAAU,QAAiE;QACjF,OAAO,IAAI,CAAC,cAAc,CAAC,YAAY,CAAC,CAAC,EAA4B,EAAE,EAAE;YACxE,MAAM,IAAI,GAAG,IAAI,6CAAoB,CAAC,EAAE,CAAC,CAAC;YAE1C,MAAM,OAAO,GAA6B;gBACzC,IAAI;aACJ,CAAC;YAEF,OAAO,QAAQ,CAAC,OAAO,CAAC,CAAC;QAC1B,CAAC,CAAC,CAAC;IACJ,CAAC;CACD;AAdD,0DAcC"
-}

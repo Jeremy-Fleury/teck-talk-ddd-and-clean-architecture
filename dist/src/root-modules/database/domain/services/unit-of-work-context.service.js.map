@@ -1,8 +1,0 @@
-{
-	"version": 3,
-	"file": "unit-of-work-context.service.js",
-	"sourceRoot": "",
-	"sources": ["../../../../../../src/modules-root/database/domain/services/unit-of-work-context.service.ts"],
-	"names": [],
-	"mappings": ";;;AAEA,MAAsB,wBAAwB;CAE7C;AAFD,4DAEC"
-}
